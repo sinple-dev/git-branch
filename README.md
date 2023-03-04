@@ -19,3 +19,4 @@ git update test3 1번째
 
 git update test4 1번째
 git update test4 2번째
+git update test4 3번째
